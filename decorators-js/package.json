@@ -1,0 +1,15 @@
+{
+  "name": "decorators-js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "this is turing preperation monorepo",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sheikh.haris.zahid@hotmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}

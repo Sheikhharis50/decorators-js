@@ -1,0 +1,16 @@
+{
+  "name": "decorators-ts",
+  "version": "1.0.0",
+  "description": "this is turing preperation monorepo",
+  "scripts": {
+    "start": "nodemon src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sheikh.haris.zahid@hotmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
